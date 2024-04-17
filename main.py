@@ -3,7 +3,6 @@ import pyperclip
 import sys
 import pathlib
 
-src = "D:\\Krishanth\\Dev\\VS\\sfml\\ConsoleApplication1"
 src = os.getcwd()
 
 desiredTypes = ["cpp", "h", "hpp"]
